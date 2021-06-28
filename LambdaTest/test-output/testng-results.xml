@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20206" started-at="2021-06-28T14:49:16Z" finished-at="2021-06-28T14:49:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="20206" started-at="2021-06-28T14:49:16Z" finished-at="2021-06-28T14:49:36Z">
+      <class name="com.automation.testcases.ShadowDom">
+        <test-method status="PASS" signature="setUpSuite()[pri:0, instance:com.automation.testcases.ShadowDom@42d80b78]" name="setUpSuite" is-config="true" duration-ms="11" started-at="2021-06-28T20:19:16Z" finished-at="2021-06-28T20:19:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpSuite -->
+        <test-method status="PASS" signature="openURL()[pri:0, instance:com.automation.testcases.ShadowDom@42d80b78]" name="openURL" duration-ms="18908" started-at="2021-06-28T20:19:16Z" finished-at="2021-06-28T20:19:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method status="PASS" signature="printListText()[pri:0, instance:com.automation.testcases.ShadowDom@42d80b78]" name="printListText" duration-ms="138" started-at="2021-06-28T20:19:35Z" finished-at="2021-06-28T20:19:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printListText -->
+        <test-method status="PASS" signature="printText()[pri:0, instance:com.automation.testcases.ShadowDom@42d80b78]" name="printText" duration-ms="45" started-at="2021-06-28T20:19:35Z" finished-at="2021-06-28T20:19:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printText -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automation.testcases.ShadowDom@42d80b78]" name="tearDown" is-config="true" duration-ms="1095" started-at="2021-06-28T20:19:35Z" finished-at="2021-06-28T20:19:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automation.testcases.ShadowDom -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
